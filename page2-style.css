@@ -80,6 +80,10 @@ a:hover, a:focus {
   float: right;
 }
 
+.gnb a {
+  padding: 3px;
+}
+
 .gnb::after {
   content: "";
   display: block;
@@ -103,7 +107,7 @@ a:hover, a:focus {
 
 .de {
   padding: 3px;
-  margin-right: 100px;
+  margin-right: 120px;
 }
 
 .burgerbar-list {
